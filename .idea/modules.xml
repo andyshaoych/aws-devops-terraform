@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/aws-devops-terraform.iml" filepath="$PROJECT_DIR$/.idea/aws-devops-terraform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../devops-box/.idea/devops-box.iml" filepath="$PROJECT_DIR$/../devops-box/.idea/devops-box.iml" />
+    </modules>
+  </component>
+</project>
